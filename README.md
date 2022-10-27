@@ -8,7 +8,7 @@
   </div>
 
 <div  align="center">
-*Hackerrank badges I've won*
+<h1>Hackerrank badges I've won</h1>
 </div>
 
 <div  align="center">
