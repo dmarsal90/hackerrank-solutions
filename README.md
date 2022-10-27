@@ -14,13 +14,7 @@
 <div  align="center">
 <div class="pull-left">
 <h3 align="left">
-<img src="https://raw.githubusercontent.com/dmarsal90/hackerrank-php-solutions/main/img/problem_solving.png" alt="problem_solving"/>
+<img src="https://raw.githubusercontent.com/dmarsal90/hackerrank-php-solutions/main/img/badges.png" alt="problem_solving"/>
 </h3>
 </div>
 
-<div class="pull-right">
-<h3 align="right">
-<img src="https://raw.githubusercontent.com/dmarsal90/hackerrank-php-solutions/main/img/sql.png" alt="sql"/>
-</h3>
-</div>
-</div>
