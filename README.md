@@ -10,6 +10,7 @@
  <div align="center"> 
  <a href="https://github.com/dmarsal90/hackerrank-php-solutions/last-commit"><img alt="last commit" src="https://img.shields.io/github/last-commit/dmarsal90/hackerrank-php-solutions?color=yellow"></a>
  <a href="https://github.com/dmarsal90/hackerrank-php-solutions/repo-size"><img alt="repo-size" src="https://img.shields.io/github/repo-size/dmarsal90/hackerrank-php-solutions?color=yellowgreen"></a>
+  <a href="https://github.com/dmarsal90/test/"><img alt="visitors" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=dmarsal90.test?color=blue"></a>
  </div>
 
 <div  align="center">
