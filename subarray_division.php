@@ -12,24 +12,16 @@
 
 function birthday($s, $d, $m) {
     // Write your code here
-$max_length = count($s);
-
-$initial_check = 0;
-$number_of_divide = 0;
-$final_check = $initial_check + $m - 1;
-
-while($final_check < $max_length) { $sum_of_chocolate=0; for ($check_segment_index=$initial_check; $check_segment_index <=$final_check; $check_segment_index++) { $sum_of_chocolate +=$s[$check_segment_index]; if ($sum_of_chocolate==$d && $final_check==$check_segment_index) { // total chocolate equal day of summing chocolate // the contiguous length is equal month $number_of_divide++; } if ($sum_of_chocolate> $d) {
-    // too much chocolate
-    break;
+    $count=0;
+    for($i=0; $i<count($s); $i++){
+        $sum = 0;
+        for($j=$i; $j<$m+$i; $j++){
+            $sum = $sum+$s[$j];
+        }
+        if($sum==$d){
+            $count++;
+        }
     }
-    }
-
-    // find the next chocolate segment
-    $initial_check++;
-    $final_check = $initial_check + $m - 1;
-    }
-
-
-    return $number_of_divide;
+    return $count;
 }
 ?>
