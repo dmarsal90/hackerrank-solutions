@@ -1,5 +1,5 @@
 
-<h1> Hackerrank solutions for challenges that I have solved  	:wink:</h1>
+<h1> Hackerrank solutions for challenges 	:wink:</h1>
 <div align="center">
   <a href="https://github.com/dmarsal90/hackerrank-php-solutions/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/dmarsal90/hackerrank-php-solutions"></a>
   <a href="https://github.com/dmarsal90/hackerrank-php-solutions/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/dmarsal90/hackerrank-php-solutions"></a>
