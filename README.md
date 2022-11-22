@@ -1,5 +1,7 @@
 
+ <div align="center"> 
 <h1> Hackerrank solutions for challenges 	:wink:</h1>
+  </div>
 <div align="center">
   <a href="https://github.com/dmarsal90/hackerrank-php-solutions/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/dmarsal90/hackerrank-php-solutions"></a>
   <a href="https://github.com/dmarsal90/hackerrank-php-solutions/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/dmarsal90/hackerrank-php-solutions"></a>
@@ -14,7 +16,7 @@
  </div>
 
 <div  align="center">
-<h1>Personal profile</h1>
+<h1>Hackerrank profile</h1>
 </div>
 <div>
 
@@ -22,7 +24,7 @@
 
 </div>
 <div  align="center">
-<h1>Hackerrank badges I've won</h1>
+<h1>Badges I've won</h1>
 </div>
 
 <div  align="center">
